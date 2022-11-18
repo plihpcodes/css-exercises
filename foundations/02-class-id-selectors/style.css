@@ -1,0 +1,18 @@
+* {
+    font-family: Verdana, sans-serif;
+}
+.odd {
+    background-color: #e06f6f;
+    font-size: 20px;
+}
+.bigger, #green {
+    font-size: 24px;
+}
+#blue {
+    font-size: 36px;
+    color: #0000ff;
+}
+#green {
+    background-color: #4de44d;
+    font-weight: bold;
+}
